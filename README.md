@@ -14,7 +14,7 @@
 # :dancers:  Time
 * *__// Marcio Fujita__*
 * *__// Paulo Eliezer__*
-* *__// Lucascas Lara__*
+* *__Lucas Lara__*
 * *__Renzo Sevilha__*
 
 # 🧪 Testes
