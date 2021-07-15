@@ -13,7 +13,7 @@
 
 # :dancers:  Time
 * *__// Marcio Fujita__*
-* *__// Paulo Eliezer__*
+* *__Paulo Eliezer__*
 * *__Lucas Lara__*
 * *__Renzo Sevilha__*
 
