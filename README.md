@@ -11,10 +11,10 @@ Styled Components
 Lottie_**
 
 # :dancers:  Time
-**_//Marcio Fujita
-//Paulo Eliezer
-//Lucas Lara
-Renzo Sevilha_**
+* *__// Marcio Fujita__*
+* *__// Paulo Eliezer__*
+* *__// Lucascas Lara__*
+* *__Renzo Sevilha__*
 
 # 🧪 Testes
 ## 👨‍🔬 Testes unitários
