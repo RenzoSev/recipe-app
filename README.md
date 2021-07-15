@@ -3,12 +3,13 @@
 <img  src="https://raw.githubusercontent.com/tryber/sd-010-a-project-recipes-app/main-group-15-styled/src/images/noTextLogo.png" alt="UCook" />
 
 ## :computer:  Tecnologias
-**_ReactJS
-RTL
-ContextAPI
-Hooks
-Styled Components
-Lottie_**
+* **_ReactJS_**
+* **_RTL_**
+* **_ContextAPI_**
+* **_Hooks_**
+* **_Styled Components_**
+* **_Lottie_**
+* **_Eslint_**
 
 # :dancers:  Time
 * *__// Marcio Fujita__*
