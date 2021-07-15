@@ -19,11 +19,20 @@ export default function useLoading() {
   const renderLoading = (Component) => {
     if (loading) {
       return (
-        <div style={ { position: 'absolute', left: '15px', right: '0', top: '12rem' } }>
+        <div
+          style={ {
+            position: 'absolute',
+            marginLeft: 'auto',
+            marginRight: 'auto',
+            top: '37vh',
+            left: 0,
+            right: 0,
+          } }
+        >
           <Lottie
             options={ defaultOptions }
-            height={ 150 }
-            width={ 150 }
+            height={ 160 }
+            width={ 160 }
             isStopped={ isStopped }
             isPaused={ isPaused }
           />
