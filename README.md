@@ -12,7 +12,7 @@
 * **_Eslint_**
 
 # :dancers:  Time
-* *__// Marcio Fujita__*
+* *__Marcio Fujita__*
 * *__Paulo Eliezer__*
 * *__Lucas Lara__*
 * *__Renzo Sevilha__*
